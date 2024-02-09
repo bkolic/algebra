@@ -1,0 +1,43 @@
+
+* {
+
+    margin: 0 auto;
+}
+
+div {
+
+    background-color: lightgray;
+    text-align:justify;
+  }
+
+.box1 {
+ 
+    border: 3px solid grey;
+    margin: 20px 400px ;
+    padding: 20px ;
+
+}
+
+.box2 {
+
+    border: 5px dashed grey;
+    margin: 0px 0px 2px 600px  ;
+    padding: 20px 40px ;
+}
+
+.box3 {
+
+    border-right: 5px double grey;
+    margin: 0px 650px 20px 0px  ;
+    padding: 0px 20px 14px 30px ;
+    
+}
+
+.box4 {
+
+border-top: dashed grey;
+border-bottom: dotted;
+margin: 10px 50px 10px 50px ;
+padding: 5px 8px 5px 8px;
+    
+}
